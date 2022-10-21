@@ -13,3 +13,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+
+# Overlays
+PRODUCT_PACKAGES += \
+    AOSPAFrameworksOverlayC10 \
+    AOSPAFrameworksOverlayP10
