@@ -299,7 +299,7 @@ system_ext/lib/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
 system_ext/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
 system_ext/lib64/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
 system_ext/lib64/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
-system_ext/priv-app/OemRilService/OemRilService.apk
+system_ext/priv-app/OemRilService/OemRilService.apk;PRESIGNED
 
 # VZW
 system_ext/etc/permissions/com.verizon.llkagent.xml
@@ -1192,7 +1192,7 @@ vendor/lib/libExynosC2Vp8Enc.so
 vendor/lib/libExynosC2Vp9Dec.so
 vendor/lib/libExynosC2Vp9Enc.so
 vendor/lib/libOpenCL-pixel.so
-vendor/lib/libOpenCL.so
+-vendor/lib/libOpenCL.so
 vendor/lib/lib_aion_buffer.so
 vendor/lib/libadaptedinfo.so
 vendor/lib/libamcsextfile.so
@@ -1241,6 +1241,7 @@ vendor/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
 vendor/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.1.so
 vendor/lib64/android.hardware.authsecret@1.0-impl.nos.so
 vendor/lib64/android.hardware.confirmationui.secure_input_citadel.so
+vendor/lib64/android.hardware.contexthub-V1-ndk.so
 vendor/lib64/android.hardware.identity@1.0-impl.nos.so
 vendor/lib64/android.hardware.keymaster@4.1-impl.nos.so
 vendor/lib64/android.hardware.oemlock@1.0-impl.nos.so
@@ -1286,7 +1287,7 @@ vendor/lib64/libExynosC2Vp8Enc.so
 vendor/lib64/libExynosC2Vp9Dec.so
 vendor/lib64/libExynosC2Vp9Enc.so
 vendor/lib64/libOpenCL-pixel.so
-vendor/lib64/libOpenCL.so
+-vendor/lib64/libOpenCL.so
 vendor/lib64/lib_aion_buffer.so
 vendor/lib64/lib_reader.so
 vendor/lib64/lib_sensor_listener.so
